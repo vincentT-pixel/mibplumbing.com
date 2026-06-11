@@ -1,0 +1,6 @@
+# app-ads.txt for mibplumbing.com
+# Add your authorized digital sellers below.
+# Format: <domain>, <publisher_id>, <relationship>, <certification_authority_id>
+#
+# Example:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
